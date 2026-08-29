@@ -6,5 +6,5 @@
 # V CODEOWNERS vyhrává poslední odpovídající řádek — vlastní pravidla
 # přidávejte POD tuto sekci, pro konkrétní cesty tím výchozí vlastníky
 # přebijete. Jak mechanismus funguje a jak z něj ven: CODEOWNERS_README.md.
-* @czmhorg/test-pr-reviewers
+* @czmhorg/test-gov-admins
 # <<< KONEC SPRAVOVANE SEKCE governance reconcile <<<
