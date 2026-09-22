@@ -8,7 +8,7 @@ governance reconcile z konfigurace projektu `govtest1` v gov repu
 ## Jak to funguje
 
 - Při otevření PR požádá GitHub o review tým ze spravované sekce
-  (`* @czmhorg/test-pr-reviewers`); konkrétní členy vybírá týmové round robin přiřazení
+  (`* @czmhorg/test-gov-admins`); konkrétní členy vybírá týmové round robin přiřazení
   (autor PR se vynechává).
 - Další reviewery může autor PR kdykoli přidat ručně — eskalace zůstává
   na lidech, žádný automat ji nedělá.
