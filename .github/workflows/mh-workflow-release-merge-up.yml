@@ -68,3 +68,4 @@ jobs:
               gh pr merge "$pr" --merge
             fi
           done <<< "$targets"
+# rucni uprava (sonda 9.5a)
